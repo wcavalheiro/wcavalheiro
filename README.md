@@ -1,6 +1,5 @@
 👋 Hi, I’m Willian Cavalheiro, @wcavalheiro
-I'm studying Computer Science in University Uniritter!
-I'm work with Infrastructure of IT, but i study for become a software engineer.
+- I'm studying Computer Science in University Uniritter!. I'm work with Infrastructure of IT, but i study for become a software engineer.
 
 <!---
 wcavalheiro/wcavalheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
